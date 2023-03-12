@@ -1,0 +1,271 @@
+<Layout printResolution="300" units="mm" name="Rossi" worldFileMap="">
+ <Snapper snapToGrid="0" snapToGuides="1" snapToItems="1" tolerance="5"/>
+ <Grid offsetX="0" resolution="10" offsetUnits="mm" resUnits="mm" offsetY="0"/>
+ <PageCollection>
+  <symbol type="fill" name="" clip_to_extent="1" alpha="1" force_rhr="0">
+   <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+    <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+    <prop v="255,255,255,255" k="color"/>
+    <prop v="miter" k="joinstyle"/>
+    <prop v="0,0" k="offset"/>
+    <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+    <prop v="MM" k="offset_unit"/>
+    <prop v="35,35,35,255" k="outline_color"/>
+    <prop v="no" k="outline_style"/>
+    <prop v="0.26" k="outline_width"/>
+    <prop v="MM" k="outline_width_unit"/>
+    <prop v="solid" k="style"/>
+    <data_defined_properties>
+     <Option type="Map">
+      <Option value="" type="QString" name="name"/>
+      <Option name="properties"/>
+      <Option value="collection" type="QString" name="type"/>
+     </Option>
+    </data_defined_properties>
+   </layer>
+  </symbol>
+  <LayoutItem uuid="{c6e3afd7-304b-4442-b167-0b8058b6c12a}" size="600,900,mm" outlineWidthM="0.3,mm" frame="false" itemRotation="0" position="0,0,mm" templateUuid="{c6e3afd7-304b-4442-b167-0b8058b6c12a}" referencePoint="0" visibility="1" excludeFromExports="0" groupUuid="" zValue="0" id="" blendMode="0" frameJoinStyle="miter" positionLock="false" positionOnPage="0,0,mm" type="65638" opacity="1" background="true">
+   <FrameColor blue="0" red="0" green="0" alpha="255"/>
+   <BackgroundColor blue="255" red="255" green="255" alpha="255"/>
+   <LayoutObject>
+    <dataDefinedProperties>
+     <Option type="Map">
+      <Option value="" type="QString" name="name"/>
+      <Option name="properties"/>
+      <Option value="collection" type="QString" name="type"/>
+     </Option>
+    </dataDefinedProperties>
+    <customproperties/>
+   </LayoutObject>
+   <symbol type="fill" name="" clip_to_extent="1" alpha="1" force_rhr="0">
+    <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+     <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+     <prop v="255,255,255,255" k="color"/>
+     <prop v="miter" k="joinstyle"/>
+     <prop v="0,0" k="offset"/>
+     <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+     <prop v="MM" k="offset_unit"/>
+     <prop v="35,35,35,255" k="outline_color"/>
+     <prop v="no" k="outline_style"/>
+     <prop v="0.26" k="outline_width"/>
+     <prop v="MM" k="outline_width_unit"/>
+     <prop v="solid" k="style"/>
+     <data_defined_properties>
+      <Option type="Map">
+       <Option value="" type="QString" name="name"/>
+       <Option name="properties"/>
+       <Option value="collection" type="QString" name="type"/>
+      </Option>
+     </data_defined_properties>
+    </layer>
+   </symbol>
+  </LayoutItem>
+  <GuideCollection visible="1"/>
+ </PageCollection>
+ <LayoutItem marginY="10" uuid="{c91a75d4-55bd-4ade-a23c-2ca379e8f6e9}" size="271.892,159.177,mm" marginX="15" outlineWidthM="2,mm" frame="false" itemRotation="0" valign="32" position="15.6635,158.913,mm" templateUuid="{c91a75d4-55bd-4ade-a23c-2ca379e8f6e9}" referencePoint="0" visibility="1" excludeFromExports="0" groupUuid="" zValue="15" id="" blendMode="0" frameJoinStyle="round" positionLock="false" positionOnPage="15.6635,158.913,mm" labelText="Este trabajo evalúa el mejor sitio de emplazamiento para la construcción de un hospital Público en Avellaneda, Buenos Aires (figura 1). Para esta propuesta se tuvo en consideración la distribución de la población, la ubicación de otros hospitales y unidades sanitarias cercanas, la presencia de estaciones ferroviarias, la cercanía con la calle principal de la localidad y la autopista, y la ubicación de la Reserva Ecológica de Avellaneda. El detalle de los criterios tomados en cuenta se resumen en la tabla 1." type="65641" halign="8" opacity="1" background="false" htmlState="0">
+  <FrameColor blue="253" red="82" green="171" alpha="255"/>
+  <BackgroundColor blue="253" red="221" green="238" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option value="" type="QString" name="name"/>
+     <Option name="properties"/>
+     <Option value="collection" type="QString" name="type"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont description="Calibri,28,-1,5,50,0,0,0,0,0,Regular" style="Regular"/>
+  <FontColor blue="87" red="83" green="84" alpha="255"/>
+ </LayoutItem>
+ <LayoutItem marginY="0" uuid="{b61a482b-ffb0-421c-bb17-ef59809e0ab7}" size="271.042,27.3775,mm" marginX="0" outlineWidthM="2,mm" frame="false" itemRotation="0" valign="128" position="16.5135,131.536,mm" templateUuid="{b61a482b-ffb0-421c-bb17-ef59809e0ab7}" referencePoint="0" visibility="1" excludeFromExports="0" groupUuid="" zValue="14" id="" blendMode="0" frameJoinStyle="round" positionLock="false" positionOnPage="16.5135,131.536,mm" labelText="INTRODUCCIÓN" type="65641" halign="4" opacity="1" background="false" htmlState="0">
+  <FrameColor blue="253" red="82" green="171" alpha="255"/>
+  <BackgroundColor blue="253" red="221" green="238" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option value="" type="QString" name="name"/>
+     <Option name="properties"/>
+     <Option value="collection" type="QString" name="type"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont description="Calibri,36,-1,5,75,0,0,0,0,0,Bold" style="Bold"/>
+  <FontColor blue="87" red="83" green="84" alpha="255"/>
+ </LayoutItem>
+ <LayoutItem marginY="10" uuid="{4f8c53c1-338d-4d30-bf0d-67dbc332c4ac}" size="452.576,41.5949,mm" marginX="0" outlineWidthM="2,mm" frame="false" itemRotation="0" valign="32" position="22.25,77.1958,mm" templateUuid="{4f8c53c1-338d-4d30-bf0d-67dbc332c4ac}" referencePoint="0" visibility="1" excludeFromExports="0" groupUuid="" zValue="7" id="" blendMode="0" frameJoinStyle="round" positionLock="false" positionOnPage="22.25,77.1958,mm" labelText="Departamento de Ambiente y Turismo, Universidad Nacional de Avellaneda&#xa;melisa.s.rossi@gmail.com" type="65641" halign="4" opacity="1" background="false" htmlState="0">
+  <FrameColor blue="253" red="82" green="171" alpha="255"/>
+  <BackgroundColor blue="253" red="221" green="238" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option value="" type="QString" name="name"/>
+     <Option name="properties"/>
+     <Option value="collection" type="QString" name="type"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont description="Calibri,26,-1,5,50,1,0,0,0,0,Italic" style="Italic"/>
+  <FontColor blue="87" red="83" green="84" alpha="255"/>
+ </LayoutItem>
+ <LayoutItem uuid="{879b9194-e15e-4f29-a525-45b68453a4c4}" size="270.742,27.0775,mm" outlineWidthM="0.3,mm" frame="false" itemRotation="0" position="16.6635,131.686,mm" cornerRadiusMeasure="0,mm" templateUuid="{879b9194-e15e-4f29-a525-45b68453a4c4}" shapeType="1" referencePoint="0" visibility="1" excludeFromExports="0" groupUuid="" zValue="6" id="" blendMode="0" frameJoinStyle="miter" positionLock="false" positionOnPage="16.6635,131.686,mm" type="65643" opacity="1" background="false">
+  <FrameColor blue="0" red="0" green="0" alpha="255"/>
+  <BackgroundColor blue="255" red="255" green="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option value="" type="QString" name="name"/>
+     <Option name="properties"/>
+     <Option value="collection" type="QString" name="type"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <symbol type="fill" name="" clip_to_extent="1" alpha="1" force_rhr="0">
+   <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+    <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+    <prop v="221,238,253,255" k="color"/>
+    <prop v="round" k="joinstyle"/>
+    <prop v="0,0" k="offset"/>
+    <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+    <prop v="MM" k="offset_unit"/>
+    <prop v="82,171,253,255" k="outline_color"/>
+    <prop v="solid" k="outline_style"/>
+    <prop v="2" k="outline_width"/>
+    <prop v="MM" k="outline_width_unit"/>
+    <prop v="solid" k="style"/>
+    <data_defined_properties>
+     <Option type="Map">
+      <Option value="" type="QString" name="name"/>
+      <Option name="properties"/>
+      <Option value="collection" type="QString" name="type"/>
+     </Option>
+    </data_defined_properties>
+   </layer>
+  </symbol>
+ </LayoutItem>
+ <LayoutItem marginY="10" uuid="{8ca0495d-1f48-434a-85a3-84e3fda4a6e1}" size="458.45,38.7796,mm" marginX="0" outlineWidthM="2,mm" frame="false" itemRotation="0" valign="32" position="19.3133,62.2242,mm" templateUuid="{8ca0495d-1f48-434a-85a3-84e3fda4a6e1}" referencePoint="0" visibility="1" excludeFromExports="0" groupUuid="" zValue="5" id="" blendMode="0" frameJoinStyle="round" positionLock="false" positionOnPage="19.3133,62.2242,mm" labelText="Melisa Sathya Rossi" type="65641" halign="4" opacity="1" background="false" htmlState="0">
+  <FrameColor blue="253" red="82" green="171" alpha="255"/>
+  <BackgroundColor blue="253" red="221" green="238" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option value="" type="QString" name="name"/>
+     <Option name="properties"/>
+     <Option value="collection" type="QString" name="type"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont description="Calibri,35,-1,5,75,0,0,0,0,0,Bold" style="Bold"/>
+  <FontColor blue="87" red="83" green="84" alpha="255"/>
+ </LayoutItem>
+ <LayoutItem uuid="{7d9ee47c-7c66-4072-9919-aaf67b8bf94f}" size="269.892,384.648,mm" outlineWidthM="0.3,mm" frame="false" itemRotation="0" position="16.6635,131.686,mm" cornerRadiusMeasure="0,mm" templateUuid="{7d9ee47c-7c66-4072-9919-aaf67b8bf94f}" shapeType="1" referencePoint="0" visibility="1" excludeFromExports="0" groupUuid="" zValue="4" id="" blendMode="0" frameJoinStyle="miter" positionLock="false" positionOnPage="16.6635,131.686,mm" type="65643" opacity="1" background="false">
+  <FrameColor blue="0" red="0" green="0" alpha="255"/>
+  <BackgroundColor blue="255" red="255" green="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option value="" type="QString" name="name"/>
+     <Option name="properties"/>
+     <Option value="collection" type="QString" name="type"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <symbol type="fill" name="" clip_to_extent="1" alpha="1" force_rhr="0">
+   <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+    <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+    <prop v="255,255,255,255" k="color"/>
+    <prop v="round" k="joinstyle"/>
+    <prop v="0,0" k="offset"/>
+    <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+    <prop v="MM" k="offset_unit"/>
+    <prop v="82,171,253,255" k="outline_color"/>
+    <prop v="solid" k="outline_style"/>
+    <prop v="2" k="outline_width"/>
+    <prop v="MM" k="outline_width_unit"/>
+    <prop v="solid" k="style"/>
+    <data_defined_properties>
+     <Option type="Map">
+      <Option value="" type="QString" name="name"/>
+      <Option name="properties"/>
+      <Option value="collection" type="QString" name="type"/>
+     </Option>
+    </data_defined_properties>
+   </layer>
+  </symbol>
+ </LayoutItem>
+ <LayoutItem uuid="{1f6ffdf7-cd00-40e6-8c37-866c7ab0defc}" size="131.952,95.2638,mm" svgBorderColor="0,0,0,255" outlineWidthM="0.3,mm" frame="false" resizeMode="0" northMode="0" itemRotation="0" position="464.622,11.74,mm" templateUuid="{1f6ffdf7-cd00-40e6-8c37-866c7ab0defc}" file="C:/Users/m_eli/Desktop/Universidad/Doctorado/Cursos/Curso QGIS/Proyecto personal/unnamed.png" referencePoint="0" visibility="1" excludeFromExports="0" northOffset="0" groupUuid="" mapUuid="" zValue="3" id="" blendMode="0" pictureWidth="95.2638" frameJoinStyle="miter" positionLock="false" positionOnPage="464.622,11.74,mm" anchorPoint="0" svgBorderWidth="0.2" type="65640" svgFillColor="255,255,255,255" opacity="1" pictureRotation="0" pictureHeight="95.2638" background="false">
+  <FrameColor blue="0" red="0" green="0" alpha="255"/>
+  <BackgroundColor blue="255" red="255" green="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option value="" type="QString" name="name"/>
+     <Option name="properties"/>
+     <Option value="collection" type="QString" name="type"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+ </LayoutItem>
+ <LayoutItem marginY="12" uuid="{3518fe0b-5bc8-4225-8a02-f615b9dbe7c6}" size="464.05,98.9684,mm" marginX="15" outlineWidthM="2,mm" frame="false" itemRotation="0" valign="32" position="16.5135,11.74,mm" templateUuid="{3518fe0b-5bc8-4225-8a02-f615b9dbe7c6}" referencePoint="0" visibility="1" excludeFromExports="0" groupUuid="" zValue="2" id="" blendMode="0" frameJoinStyle="round" positionLock="false" positionOnPage="16.5135,11.74,mm" labelText="EVALUACIÓN MULTICRITERIO PARA LA UBICACIÓN DE UN HOSPITAL PÚBLICO EN AVELLANEDA, BUENOS AIRES" type="65641" halign="4" opacity="1" background="false" htmlState="0">
+  <FrameColor blue="253" red="82" green="171" alpha="255"/>
+  <BackgroundColor blue="253" red="221" green="238" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option value="" type="QString" name="name"/>
+     <Option name="properties"/>
+     <Option value="collection" type="QString" name="type"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont description="Calibri,48,-1,5,75,0,0,0,0,0,Bold" style="Bold"/>
+  <FontColor blue="139" red="69" green="101" alpha="255"/>
+ </LayoutItem>
+ <LayoutItem uuid="{a1d957d7-2e1b-4a20-8c58-3da21f94a398}" size="564.973,110.775,mm" outlineWidthM="0.3,mm" frame="false" itemRotation="0" position="17.5135,11.89,mm" cornerRadiusMeasure="0,mm" templateUuid="{a1d957d7-2e1b-4a20-8c58-3da21f94a398}" shapeType="1" referencePoint="0" visibility="1" excludeFromExports="0" groupUuid="" zValue="1" id="" blendMode="0" frameJoinStyle="miter" positionLock="false" positionOnPage="17.5135,11.89,mm" type="65643" opacity="1" background="false">
+  <FrameColor blue="0" red="0" green="0" alpha="255"/>
+  <BackgroundColor blue="255" red="255" green="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option value="" type="QString" name="name"/>
+     <Option name="properties"/>
+     <Option value="collection" type="QString" name="type"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <symbol type="fill" name="" clip_to_extent="1" alpha="1" force_rhr="0">
+   <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+    <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+    <prop v="221,238,253,255" k="color"/>
+    <prop v="round" k="joinstyle"/>
+    <prop v="0,0" k="offset"/>
+    <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+    <prop v="MM" k="offset_unit"/>
+    <prop v="82,171,253,255" k="outline_color"/>
+    <prop v="solid" k="outline_style"/>
+    <prop v="2" k="outline_width"/>
+    <prop v="MM" k="outline_width_unit"/>
+    <prop v="solid" k="style"/>
+    <data_defined_properties>
+     <Option type="Map">
+      <Option value="" type="QString" name="name"/>
+      <Option name="properties"/>
+      <Option value="collection" type="QString" name="type"/>
+     </Option>
+    </data_defined_properties>
+   </layer>
+  </symbol>
+ </LayoutItem>
+ <customproperties>
+  <property value="png" key="atlasRasterFormat"/>
+ </customproperties>
+ <Atlas coverageLayer="AMBA_52574fbe_0359_47e7_991f_21f451dc4174" enabled="0" sortFeatures="0" coverageLayerProvider="ogr" coverageLayerName="AMBA" hideCoverage="0" pageNameExpression="" coverageLayerSource="C:/Users/m_eli/Desktop/Universidad/Doctorado/Cursos/Curso QGIS/Proyecto personal/Ubicación Avellaneda dentro del AMBA/AMBA.shp" filenamePattern="'output_'||@atlas_featurenumber" filterFeatures="0"/>
+</Layout>
