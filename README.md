@@ -70,7 +70,7 @@ To determine the optimal location for the public hospital in Avellaneda, Buenos 
 
 ### Resources used:
 
-QGIS
+![QGIS](https://img.shields.io/badge/QGIS-76a32a?style=for-the-badge&logo=QGIS&logoColor=white)
 
 ### I'd love to hear from you!
 
